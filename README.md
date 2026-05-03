@@ -41,19 +41,19 @@ Frontend
 - CSS Modules / TailwindCSS
 
 Backend
-- Next.js API Routes
+- fire base
+- fire store
 
 AI
 - Google Gemini API
 - @google/genai SDK
 
-Backend Services
-- Firebase (optional)
 
 Development Tools
 - Node.js
 - npm
 - Git & GitHub
+- next js 
 
 ---
 
