@@ -35,8 +35,8 @@ GitHub: https://github.com/aaswne/
 # Tech Stack
 
 Frontend
-- Next.js 16
-- React 19
+- Next.js 
+- React 
 - TypeScript
 - CSS Modules / TailwindCSS
 
