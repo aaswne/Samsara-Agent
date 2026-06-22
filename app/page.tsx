@@ -12,7 +12,7 @@ function Home() {
   const route = useRouter()   
 
   const handleClick = () => {
-    route.push('/GetStarted')
+    route.push('/DashBoard')
   }
 
 const { darkMode } = useTheme();
